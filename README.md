@@ -16,16 +16,6 @@ A modern, lightweight React application built with TypeScript, featuring client-
 - npm package manager
 - Docker (optional, for containerization)
 
-## 🏗️ Project Structure
-
-react-router/
-├── client/ # React TypeScript application
-├── server/ # Express server
-├── Dockerfile # Docker configuration
-├── .gitignore
-├── package.json # Root package.json for scripts
-└── README.md
-
 
 ## 🚦 Getting Started
 
