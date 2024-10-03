@@ -68,7 +68,7 @@ To build and run the application using Docker:
 ### Build the Docker image
 
   ```docker
-   docker build -t react-router-app .
+   docker build -t react-router .
   ```
 
 ### Run the Docker container
